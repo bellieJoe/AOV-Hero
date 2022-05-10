@@ -462,7 +462,9 @@ nav ul li:first-child{
 
 
 @media screen and (max-width: 850px) {
-
+    .section-1 svg{
+        transform: scale(.3) !important;
+    }
     #logo img{
         width: 2rem;
         height: 2rem;
