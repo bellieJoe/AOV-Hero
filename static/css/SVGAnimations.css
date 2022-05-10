@@ -1,0 +1,39 @@
+#android,  #playStation, #gun-solid, #bullseye-solid,#gauge-high-solid, #satellite-dish-solid{
+    animation: logos1 2s alternate linear infinite;
+    transform-origin: center;
+}
+#appStore, #googlePlay, #viruses-solid, #crosshairs-solid, #rocket-solid, #shield-virus-solid{
+    animation: logos2 2s alternate linear infinite;
+    transform-origin: center;
+}
+
+@keyframes logos1 {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(5deg);
+    }
+}
+@keyframes logos2 {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(-5deg);
+    }
+}
+
+@keyframes virus {
+    0% {
+        /* fill: green; */
+        transform: scale(1) rotate(0deg);
+    }
+    50% {
+        transform: scale(.5) rotate(300deg);
+    }
+    100% {
+        /* fill: red; */
+        transform: scale(1) rotate(360deg);
+    }
+}

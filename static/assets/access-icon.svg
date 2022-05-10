@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="241.865" height="241.865" viewBox="0 0 241.865 241.865">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d624e3"/>
+      <stop offset="1" stop-color="#f04c0e"/>
+    </linearGradient>
+  </defs>
+  <g id="access-icon" transform="translate(-97.068 -1545.068)">
+    <path id="Path_1" data-name="Path 1" d="M86,0A86,86,0,1,1,0,86" transform="translate(332.288 1624.403) rotate(115)" fill="none" stroke="#24e384" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path id="signal-solid" d="M80.684,0a4.72,4.72,0,0,0-4.746,4.613V71.192a4.747,4.747,0,0,0,9.492.133V4.613A4.718,4.718,0,0,0,80.684,0ZM23.731,42.715a4.715,4.715,0,0,0-4.746,4.613V71.058a4.772,4.772,0,0,0,4.746,4.88,4.717,4.717,0,0,0,4.746-4.613v-24A4.715,4.715,0,0,0,23.731,42.715ZM4.746,56.953A4.717,4.717,0,0,0,0,61.566v9.492a4.75,4.75,0,0,0,4.613,4.88,4.949,4.949,0,0,0,4.88-4.746V61.566A4.717,4.717,0,0,0,4.746,56.953ZM61.7,14.238a4.72,4.72,0,0,0-4.746,4.613V71.192a4.747,4.747,0,0,0,9.492.133V18.851A4.715,4.715,0,0,0,61.7,14.238ZM42.715,28.477a4.715,4.715,0,0,0-4.746,4.613V71.058a4.772,4.772,0,0,0,4.746,4.88,4.717,4.717,0,0,0,4.746-4.613V33.089A4.715,4.715,0,0,0,42.715,28.477Z" transform="translate(170.067 1627.693)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
